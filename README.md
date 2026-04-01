@@ -39,27 +39,31 @@ Protfolio__Website/
 
 ## Project List
 
-| No. | Project Name |
-| --- | --- |
-| 01 | P__1__Amazon |
-| 02 | P__2__Loge In Page |
-| 03 | P__3__FlipCard Website |
-| 04 | P__4__Tribute Website |
-| 05 | P__5__Job Application |
-| 06 | P__6__Parallax Website |
-| 07 | P__7__Youtube Clone |
-| 08 | P__8__Documentation Website |
-| 09 | P__9__Blog Website |
-| 10 | P__10__Landing Page Website |
-| 11 | P__11__Restaurant Website |
-| 12 | P__12__Music Website |
-| 13 | P__13__Tic Tac Toe Game |
-| 14 | P__14__Stone Paper Scissors |
-| 15 | P__15__Calculator |
-| 16 | P__16__Cricket |
-| 17 | P__17__Build a BMI Calculator |
-| 18 | P__18__Myntra Clone 01 |
-| 19 | P__19__ Login Form |
+
+## Project List
+
+| No. | Project | Focus |
+| --- | --- | --- |
+| 01 | [P__1__Amazon](Projects/P__1__Amazon/) | E-commerce style layout |
+| 02 | [P__2__Loge In Page](Projects/P__2__Loge%20In%20Page/) | Login form design |
+| 03 | [P__3__FlipCard Website](Projects/P__3__FlipCard%20Website/) | Card interactions and styling |
+| 04 | [P__4__Tribute Website](Projects/P__4__Tribute%20Website/) | Semantic content layout |
+| 05 | [P__5__Job Application](Projects/P__5__Job%20Application/) | Multi-field form layout |
+| 06 | [P__6__Parallax Website](Projects/P__6__Parallax%20Website/) | Parallax scrolling sections |
+| 07 | [P__7__Youtube Clone](Projects/P__7__Youtube%20Clone/) | Media platform UI |
+| 08 | [P__8__Documentation Website](Projects/P__8__Documentation%20Website/) | Technical doc-style page |
+| 09 | [P__9__Blog Website](Projects/P__9__Blog%20Website/) | Blog home and post pages |
+| 10 | [P__10__Landing Page Website](Projects/P__10__Landing%20Page%20Website/) | Marketing landing design     |
+| 11 | [P__11__Restaurant Website](Projects/P__11__Restaurant%20Website/) | Restaurant themed UI |
+| 12 | [P__12__Music Website](Projects/P__12__Music%20Website/) | Music product showcase |
+| 13 | [P__13__Tic Tac Toe Game](Projects/P__13__Tic%20Tac%20Toe%20Game/) | Game logic and UI state |
+| 14 | [P__14__Stone Paper Scissors](Projects/P__14__Stone%20Paper%20Scissors/) | Event handling and score logic |
+| 15 | [P__15__Calculator](Projects/P__15__Calculator/) | Basic arithmetic operations |
+| 16 | [P__16__Cricket](Projects/P__16__Cricket/) | Interactive score flow |
+| 17 | [P__17__Build a BMI Calculator](Projects/P__17__Build%20a%20BMI%20Calculator/) | Input-based JS calculation |
+| 18 | [P__18__Myntra Clone 01](Projects/P__18__Myntra%20Clone%2001/) | Fashion e-commerce clone |
+| 19 | [P__19__ Login Form](Projects/P__19__%20Login%20Form/) | Modern login UI |
+
 
 ## Tech Stack
 
